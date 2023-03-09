@@ -1,2 +1,8 @@
 # news_analysis
-Exploring different ways to analyze news content
+Exploring different ways to analyze news content primarily through:
+1. NER
+2. Sentiment Analysis
+3. Political bias
+4. Clustering
+
+Dataset generated through [Newscatcher](https://newscatcherapi.com/)
