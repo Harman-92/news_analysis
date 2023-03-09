@@ -1,5 +1,5 @@
 # news_analysis
-Exploring different ways to analyze news content primarily through:
+Exploring different ways to analyze news content:
 1. NER
 2. Sentiment Analysis
 3. Political bias
